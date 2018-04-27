@@ -1,0 +1,556 @@
+2018/03/29 16:50:40 banyan_api.go:78: error dial tcp 10.10.105.5:10: connect: connection refused
+2018/03/29 16:50:40 banyan_api.go:78: error dial tcp 10.10.105.5:10025: connect: connection refused
+2018/03/29 16:50:40 banyan_api.go:159: debug get host:10.10.105.5:10 down:true currentConnSize:0 MaxPoolSize:256 PoolSize:0
+2018/03/29 16:50:40 banyan_api.go:159: debug get host:10.10.105.5:10025 down:true currentConnSize:0 MaxPoolSize:256 PoolSize:0
+2018/03/29 16:50:40 banyan_api.go:146: error getConn failed
+2018/03/29 16:50:40 banyan_api.go:237: debug check down host
+2018/03/29 17:03:48 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:03:48 banyan_api.go:237: debug check down host
+2018/03/29 17:03:48 banyan_api.go:358: debug request: "29\nns:test,tab:api_test,proto:by\n3\nset\n16\ngo_1522314228_k0\n2\nv0\n\n"
+2018/03/29 17:03:48 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:03:48 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:10:38 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:10:38 banyan_api.go:237: debug check down host
+2018/03/29 17:10:38 banyan_api.go:358: debug request: "29\nns:test,tab:api_test,proto:by\n3\nset\n16\ngo_1522314638_k0\n2\nv0\n\n"
+2018/03/29 17:10:38 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:10:38 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:12:27 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:12:27 banyan_api.go:237: debug check down host
+2018/03/29 17:12:27 banyan_api.go:358: debug request: "33\nns:in_promo,tab:api_test,proto:by\n3\nset\n16\ngo_1522314747_k0\n2\nv0\n\n"
+2018/03/29 17:12:27 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:12:27 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:12:40 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:12:40 banyan_api.go:237: debug check down host
+2018/03/29 17:12:40 banyan_api.go:358: debug request: "33\nns:in_promo,tab:api_test,proto:by\n3\nset\n16\ngo_1522314760_k0\n2\nv0\n\n"
+2018/03/29 17:12:40 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:12:40 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:12:54 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:12:54 banyan_api.go:237: debug check down host
+2018/03/29 17:12:54 banyan_api.go:358: debug request: "33\nns:in_promo,tab:api_test,proto:by\n3\nset\n16\ngo_1522314774_k0\n2\nv0\n\n"
+2018/03/29 17:12:54 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:12:54 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:14:50 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:14:50 banyan_api.go:237: debug check down host
+2018/03/29 17:14:50 banyan_api.go:358: debug request: "25\nns:in_promo,tab:,proto:by\n3\nset\n16\ngo_1522314890_k0\n2\nv0\n\n"
+2018/03/29 17:14:50 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:14:50 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:15:09 banyan_api.go:78: error dial tcp 10.10.105.5:10: connect: connection refused
+2018/03/29 17:15:09 banyan_api.go:78: error dial tcp 10.10.105.5:10025: connect: connection refused
+2018/03/29 17:15:09 banyan_api.go:159: debug get host:10.10.105.5:10 down:true currentConnSize:0 MaxPoolSize:256 PoolSize:0
+2018/03/29 17:15:09 banyan_api.go:159: debug get host:10.10.105.5:10025 down:true currentConnSize:0 MaxPoolSize:256 PoolSize:0
+2018/03/29 17:15:09 banyan_api.go:146: error getConn failed
+2018/03/29 17:15:09 banyan_api.go:237: debug check down host
+2018/03/29 17:15:53 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:15:53 banyan_api.go:237: debug check down host
+2018/03/29 17:15:53 banyan_api.go:358: debug request: "25\nns:in_promo,tab:,proto:by\n3\nset\n16\ngo_1522314953_k0\n2\nv0\n\n"
+2018/03/29 17:15:53 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:15:53 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:18:38 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:18:38 banyan_api.go:237: debug check down host
+2018/03/29 17:18:38 banyan_api.go:358: debug request: "25\nns:in_promo,tab:,proto:by\n3\nset\n8\ntest_001\n6\n111111\n\n"
+2018/03/29 17:18:38 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:18:38 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:20:09 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:20:09 banyan_api.go:237: debug check down host
+2018/03/29 17:20:09 banyan_api.go:358: debug request: "25\nns:in_promo,tab:,proto:by\n3\nset\n8\ntest_001\n6\n111111\n\n"
+2018/03/29 17:20:09 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:20:09 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:25:37 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:25:38 banyan_api.go:358: debug request: "29\nns:in_promo,tab:test,proto:by\n3\nset\n8\ntest_001\n6\n111111\n\n"
+2018/03/29 17:25:37 banyan_api.go:237: debug check down host
+2018/03/29 17:25:38 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:25:38 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:26:16 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:26:16 banyan_api.go:237: debug check down host
+2018/03/29 17:26:16 banyan_api.go:358: debug request: "29\nns:in_promo,tab:test,proto:by\n3\nset\n16\ngo_1522315576_k0\n2\nv0\n\n"
+2018/03/29 17:26:16 banyan_api.go:524: debug reps:[error not found key slice]
+2018/03/29 17:26:16 banyan_api.go:420: debug response: "5\nerror\n19\nnot found key slice\n\r\n"
+2018/03/29 17:29:58 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:29:58 banyan_api.go:237: debug check down host
+2018/03/29 17:29:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522315798_k0\n2\nv0\n\n"
+2018/03/29 17:29:58 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:29:58 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:29:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522315798_k0\n\n"
+2018/03/29 17:29:58 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:29:58 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:29:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetset\n16\ngo_1522315798_k0\n2\nv1\n\n"
+2018/03/29 17:29:58 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:29:58 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:29:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522315798_k0\n\n"
+2018/03/29 17:29:58 banyan_api.go:524: debug reps:[ok v1]
+2018/03/29 17:29:58 banyan_api.go:420: debug response: "2\nok\n2\nv1\n\r\n"
+2018/03/29 17:29:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\ndel\n16\ngo_1522315798_k0\n\n"
+2018/03/29 17:29:58 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:29:58 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:29:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522315798_k0\n\n"
+2018/03/29 17:29:58 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:29:58 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:33:29 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:33:29 banyan_api.go:237: debug check down host
+2018/03/29 17:33:29 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316009_k0\n2\nv0\n\n"
+2018/03/29 17:33:29 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:33:29 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:33:29 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316009_k0\n\n"
+2018/03/29 17:33:29 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:33:29 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:34:47 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:34:47 banyan_api.go:237: debug check down host
+2018/03/29 17:34:47 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316087_k0\n2\nv0\n\n"
+2018/03/29 17:34:47 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:34:47 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:34:47 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316087_k0\n\n"
+2018/03/29 17:34:47 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:34:47 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:35:59 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:35:59 banyan_api.go:237: debug check down host
+2018/03/29 17:35:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316159_k0\n2\nv0\n\n"
+2018/03/29 17:35:59 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:35:59 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:35:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316159_k0\n\n"
+2018/03/29 17:35:59 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:35:59 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:36:19 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:19 banyan_api.go:237: debug check down host
+2018/03/29 17:36:19 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316179_k0\n2\nv0\n\n"
+2018/03/29 17:36:19 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:19 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:19 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316179_k0\n\n"
+2018/03/29 17:36:19 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:19 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:21 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:21 banyan_api.go:237: debug check down host
+2018/03/29 17:36:21 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316181_k0\n2\nv0\n\n"
+2018/03/29 17:36:21 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:21 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:21 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316181_k0\n\n"
+2018/03/29 17:36:21 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:36:21 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:36:24 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:24 banyan_api.go:237: debug check down host
+2018/03/29 17:36:24 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316184_k0\n2\nv0\n\n"
+2018/03/29 17:36:24 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:24 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:24 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316184_k0\n\n"
+2018/03/29 17:36:24 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:24 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:25 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:25 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316185_k0\n2\nv0\n\n"
+2018/03/29 17:36:25 banyan_api.go:237: debug check down host
+2018/03/29 17:36:25 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:25 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:25 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316185_k0\n\n"
+2018/03/29 17:36:25 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:36:25 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:36:27 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:27 banyan_api.go:237: debug check down host
+2018/03/29 17:36:27 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316187_k0\n2\nv0\n\n"
+2018/03/29 17:36:27 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:27 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:27 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316187_k0\n\n"
+2018/03/29 17:36:27 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:27 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:29 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:29 banyan_api.go:237: debug check down host
+2018/03/29 17:36:29 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316189_k0\n2\nv0\n\n"
+2018/03/29 17:36:29 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:29 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:29 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316189_k0\n\n"
+2018/03/29 17:36:29 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:36:29 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:36:32 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:32 banyan_api.go:237: debug check down host
+2018/03/29 17:36:32 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316192_k0\n2\nv0\n\n"
+2018/03/29 17:36:32 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:32 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:32 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316192_k0\n\n"
+2018/03/29 17:36:32 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:32 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:33 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:33 banyan_api.go:237: debug check down host
+2018/03/29 17:36:33 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316193_k0\n2\nv0\n\n"
+2018/03/29 17:36:33 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:33 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:33 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316193_k0\n\n"
+2018/03/29 17:36:33 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:36:33 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:36:35 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:35 banyan_api.go:237: debug check down host
+2018/03/29 17:36:35 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316195_k0\n2\nv0\n\n"
+2018/03/29 17:36:35 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:35 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:35 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316195_k0\n\n"
+2018/03/29 17:36:35 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:35 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:36 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:36 banyan_api.go:237: debug check down host
+2018/03/29 17:36:36 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316196_k0\n2\nv0\n\n"
+2018/03/29 17:36:36 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:36 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:36 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316196_k0\n\n"
+2018/03/29 17:36:36 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:36 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:38 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:38 banyan_api.go:237: debug check down host
+2018/03/29 17:36:38 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316198_k0\n2\nv0\n\n"
+2018/03/29 17:36:38 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:38 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:38 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316198_k0\n\n"
+2018/03/29 17:36:38 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:38 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:39 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:39 banyan_api.go:237: debug check down host
+2018/03/29 17:36:39 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316199_k0\n2\nv0\n\n"
+2018/03/29 17:36:39 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:39 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:39 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316199_k0\n\n"
+2018/03/29 17:36:39 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:39 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:41 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:41 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316201_k0\n2\nv0\n\n"
+2018/03/29 17:36:41 banyan_api.go:237: debug check down host
+2018/03/29 17:36:41 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:41 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:41 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316201_k0\n\n"
+2018/03/29 17:36:41 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:41 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:42 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:42 banyan_api.go:237: debug check down host
+2018/03/29 17:36:42 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316202_k0\n2\nv0\n\n"
+2018/03/29 17:36:42 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:42 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:42 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316202_k0\n\n"
+2018/03/29 17:36:42 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:42 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:43 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:43 banyan_api.go:237: debug check down host
+2018/03/29 17:36:43 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316203_k0\n2\nv0\n\n"
+2018/03/29 17:36:43 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:43 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:43 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316203_k0\n\n"
+2018/03/29 17:36:43 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:43 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:45 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:45 banyan_api.go:237: debug check down host
+2018/03/29 17:36:45 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316205_k0\n2\nv0\n\n"
+2018/03/29 17:36:45 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:45 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:45 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316205_k0\n\n"
+2018/03/29 17:36:45 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:36:45 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:36:46 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:36:46 banyan_api.go:237: debug check down host
+2018/03/29 17:36:46 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316206_k0\n2\nv0\n\n"
+2018/03/29 17:36:46 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:36:46 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:36:46 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316206_k0\n\n"
+2018/03/29 17:36:46 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:36:46 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:37:36 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:37:36 banyan_api.go:237: debug check down host
+2018/03/29 17:37:36 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316256_k0\n2\nv0\n\n"
+2018/03/29 17:37:36 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:37:36 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:37:36 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316256_k0\n\n"
+2018/03/29 17:37:36 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:37:36 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:37:38 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:37:38 banyan_api.go:237: debug check down host
+2018/03/29 17:37:38 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316258_k0\n2\nv0\n\n"
+2018/03/29 17:37:38 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:37:38 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:37:38 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316258_k0\n\n"
+2018/03/29 17:37:38 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:37:38 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:37:39 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:37:39 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316259_k0\n2\nv0\n\n"
+2018/03/29 17:37:39 banyan_api.go:237: debug check down host
+2018/03/29 17:37:39 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:37:39 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:37:39 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316259_k0\n\n"
+2018/03/29 17:37:39 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:37:39 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:37:41 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:37:41 banyan_api.go:237: debug check down host
+2018/03/29 17:37:41 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316261_k0\n2\nv0\n\n"
+2018/03/29 17:37:41 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:37:41 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:37:41 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316261_k0\n\n"
+2018/03/29 17:37:41 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:37:41 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:37:43 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:37:43 banyan_api.go:237: debug check down host
+2018/03/29 17:37:43 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316263_k0\n2\nv0\n\n"
+2018/03/29 17:37:43 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:37:43 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:37:43 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316263_k0\n\n"
+2018/03/29 17:37:43 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:37:43 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:37:44 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:37:44 banyan_api.go:237: debug check down host
+2018/03/29 17:37:44 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316264_k0\n2\nv0\n\n"
+2018/03/29 17:37:44 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:37:44 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:37:44 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316264_k0\n\n"
+2018/03/29 17:37:44 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:37:44 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:37:45 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:37:45 banyan_api.go:237: debug check down host
+2018/03/29 17:37:45 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316265_k0\n2\nv0\n\n"
+2018/03/29 17:37:45 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:37:45 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:37:45 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316265_k0\n\n"
+2018/03/29 17:37:45 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:37:45 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:40:19 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:40:19 banyan_api.go:237: debug check down host
+2018/03/29 17:40:19 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316419_k0\n2\nv0\n\n"
+2018/03/29 17:40:19 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:40:19 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:40:19 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316419_k0\n\n"
+2018/03/29 17:40:19 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:40:19 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:42:36 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:42:36 banyan_api.go:237: debug check down host
+2018/03/29 17:42:36 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316556_k0\n2\nv0\n\n"
+2018/03/29 17:42:36 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:42:36 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:42:36 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316556_k0\n\n"
+2018/03/29 17:42:36 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:42:36 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:42:58 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:42:58 banyan_api.go:237: debug check down host
+2018/03/29 17:42:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316578_k0\n2\nv0\n\n"
+2018/03/29 17:42:58 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:42:58 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:42:58 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316578_k0\n\n"
+2018/03/29 17:42:58 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:42:58 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316639_k0\n2\nv0\n\n"
+2018/03/29 17:43:59 banyan_api.go:237: debug check down host
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316639_k0\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetset\n16\ngo_1522316639_k0\n2\nv1\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316639_k0\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok v1]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n2\nv1\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\ndel\n16\ngo_1522316639_k0\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316639_k0\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316639_k1\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n4\nincr\n16\ngo_1522316639_k1\n3\n888\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 888]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n3\n888\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316639_k1\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nsetbit\n16\ngo_1522316639_k2\n6\n123456\n1\n1\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetbit\n16\ngo_1522316639_k2\n6\n123456\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_set\n16\ngo_1522316639_k3\n2\nv3\n16\ngo_1522316639_k4\n2\nv4\n16\ngo_1522316639_k5\n2\nv5\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_get\n16\ngo_1522316639_k3\n16\ngo_1522316639_k4\n16\ngo_1522316639_k5\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok go_1522316639_k3 v3 go_1522316639_k4 v4 go_1522316639_k5 v5]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n16\ngo_1522316639_k3\n2\nv3\n16\ngo_1522316639_k4\n2\nv4\n16\ngo_1522316639_k5\n2\nv5\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_del\n16\ngo_1522316639_k3\n16\ngo_1522316639_k4\n16\ngo_1522316639_k5\n\n"
+2018/03/29 17:43:59 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:43:59 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:43:59 banyan_api.go:194: debug ret host:10.10.106.28:10500 down:false drop:false conn:15
+2018/03/29 17:43:59 banyan_api.go:237: debug check down host
+2018/03/29 17:43:59 banyan_api.go:237: debug check down host
+2018/03/29 17:44:04 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:44:04 banyan_api.go:237: debug check down host
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316644_k0\n2\nv0\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316644_k0\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetset\n16\ngo_1522316644_k0\n2\nv1\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316644_k0\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok v1]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n2\nv1\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\ndel\n16\ngo_1522316644_k0\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316644_k0\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316644_k1\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n4\nincr\n16\ngo_1522316644_k1\n3\n888\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 888]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n3\n888\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316644_k1\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nsetbit\n16\ngo_1522316644_k2\n6\n123456\n1\n1\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetbit\n16\ngo_1522316644_k2\n6\n123456\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_set\n16\ngo_1522316644_k3\n2\nv3\n16\ngo_1522316644_k4\n2\nv4\n16\ngo_1522316644_k5\n2\nv5\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_get\n16\ngo_1522316644_k3\n16\ngo_1522316644_k4\n16\ngo_1522316644_k5\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok go_1522316644_k3 v3 go_1522316644_k4 v4 go_1522316644_k5 v5]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n16\ngo_1522316644_k3\n2\nv3\n16\ngo_1522316644_k4\n2\nv4\n16\ngo_1522316644_k5\n2\nv5\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_del\n16\ngo_1522316644_k3\n16\ngo_1522316644_k4\n16\ngo_1522316644_k5\n\n"
+2018/03/29 17:44:04 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:44:04 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:44:04 banyan_api.go:194: debug ret host:10.10.106.28:10500 down:false drop:false conn:15
+2018/03/29 17:44:04 banyan_api.go:237: debug check down host
+2018/03/29 17:44:04 banyan_api.go:237: debug check down host
+2018/03/29 17:44:06 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:44:06 banyan_api.go:237: debug check down host
+2018/03/29 17:44:06 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316646_k0\n2\nv0\n\n"
+2018/03/29 17:44:06 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:06 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:06 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316646_k0\n\n"
+2018/03/29 17:44:06 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:44:06 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:44:09 banyan_api.go:237: debug check down host
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316649_k0\n2\nv0\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316649_k0\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetset\n16\ngo_1522316649_k0\n2\nv1\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316649_k0\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok v1]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n2\nv1\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\ndel\n16\ngo_1522316649_k0\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316649_k0\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316649_k1\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n4\nincr\n16\ngo_1522316649_k1\n3\n888\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 888]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n3\n888\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316649_k1\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nsetbit\n16\ngo_1522316649_k2\n6\n123456\n1\n1\n\n"
+2018/03/29 17:44:09 banyan_api.go:237: debug check down host
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetbit\n16\ngo_1522316649_k2\n6\n123456\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_set\n16\ngo_1522316649_k3\n2\nv3\n16\ngo_1522316649_k4\n2\nv4\n16\ngo_1522316649_k5\n2\nv5\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_get\n16\ngo_1522316649_k3\n16\ngo_1522316649_k4\n16\ngo_1522316649_k5\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok go_1522316649_k3 v3 go_1522316649_k4 v4 go_1522316649_k5 v5]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n16\ngo_1522316649_k3\n2\nv3\n16\ngo_1522316649_k4\n2\nv4\n16\ngo_1522316649_k5\n2\nv5\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_del\n16\ngo_1522316649_k3\n16\ngo_1522316649_k4\n16\ngo_1522316649_k5\n\n"
+2018/03/29 17:44:09 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:44:09 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:44:09 banyan_api.go:194: debug ret host:10.10.106.28:10500 down:false drop:false conn:15
+2018/03/29 17:44:09 banyan_api.go:237: debug check down host
+2018/03/29 17:44:09 banyan_api.go:237: debug check down host
+2018/03/29 17:44:10 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:44:10 banyan_api.go:237: debug check down host
+2018/03/29 17:44:10 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316650_k0\n2\nv0\n\n"
+2018/03/29 17:44:10 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:10 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:10 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316650_k0\n\n"
+2018/03/29 17:44:10 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:44:10 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:44:12 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:44:12 banyan_api.go:237: debug check down host
+2018/03/29 17:44:12 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316652_k0\n2\nv0\n\n"
+2018/03/29 17:44:12 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:12 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:12 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316652_k0\n\n"
+2018/03/29 17:44:12 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:44:12 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:44:14 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:44:14 banyan_api.go:237: debug check down host
+2018/03/29 17:44:14 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316654_k0\n2\nv0\n\n"
+2018/03/29 17:44:14 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:14 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:14 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316654_k0\n\n"
+2018/03/29 17:44:14 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:44:14 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:44:15 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:44:15 banyan_api.go:237: debug check down host
+2018/03/29 17:44:15 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316655_k0\n2\nv0\n\n"
+2018/03/29 17:44:15 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:44:15 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:44:15 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316655_k0\n\n"
+2018/03/29 17:44:15 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:44:15 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:159: debug get host:10.10.106.28:10500 down:false currentConnSize:16 MaxPoolSize:256 PoolSize:16
+2018/03/29 17:45:11 banyan_api.go:237: debug check down host
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nset\n16\ngo_1522316711_k0\n2\nv0\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316711_k0\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetset\n16\ngo_1522316711_k0\n2\nv1\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok v0]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n2\nv0\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316711_k0\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok v1]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n2\nv1\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\ndel\n16\ngo_1522316711_k0\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n3\nget\n16\ngo_1522316711_k0\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[not_found]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "9\nnot_found\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316711_k1\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n4\nincr\n16\ngo_1522316711_k1\n3\n888\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 888]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n3\n888\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nexists\n16\ngo_1522316711_k1\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\nsetbit\n16\ngo_1522316711_k2\n6\n123456\n1\n1\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 0]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n0\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n6\ngetbit\n16\ngo_1522316711_k2\n6\n123456\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 1]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n1\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_set\n16\ngo_1522316711_k3\n2\nv3\n16\ngo_1522316711_k4\n2\nv4\n16\ngo_1522316711_k5\n2\nv5\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_get\n16\ngo_1522316711_k3\n16\ngo_1522316711_k4\n16\ngo_1522316711_k5\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok go_1522316711_k3 v3 go_1522316711_k4 v4 go_1522316711_k5 v5]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n16\ngo_1522316711_k3\n2\nv3\n16\ngo_1522316711_k4\n2\nv4\n16\ngo_1522316711_k5\n2\nv5\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:358: debug request: "31\nns:in_promo,tab:deftab,proto:by\n9\nmulti_del\n16\ngo_1522316711_k3\n16\ngo_1522316711_k4\n16\ngo_1522316711_k5\n\n"
+2018/03/29 17:45:11 banyan_api.go:524: debug reps:[ok 3]
+2018/03/29 17:45:11 banyan_api.go:420: debug response: "2\nok\n1\n3\n\r\n"
+2018/03/29 17:45:11 banyan_api.go:194: debug ret host:10.10.106.28:10500 down:false drop:false conn:15
+2018/03/29 17:45:11 banyan_api.go:237: debug check down host
+2018/03/29 17:45:11 banyan_api.go:237: debug check down host
